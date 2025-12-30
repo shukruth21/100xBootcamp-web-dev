@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.web-logo{
+    width: 150px;
+}
+.navbar-content{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+svg{
+    width: 15px;
+    height: 15px;
+    padding-top: 3px;
+}
+a{
+    text-decoration: none;
+}
